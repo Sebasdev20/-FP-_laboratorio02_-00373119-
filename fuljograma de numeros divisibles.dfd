@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+cd
+1
+0
+3
+cnd
+1
+0
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+7
+0
+1
+11
+n mod i = 0
+4
+1
+30
+n, 'NO es divisible para'  , i
+6
+1
+3
+cnd
+7
+cnd / 1
+13
+4
+1
+28
+n,  'es divisible para'  , i
+6
+1
+2
+cd
+6
+cd / 1
+13
+10
+4
+1
+34
+n, 'total numeros divisibles ', cd
+4
+1
+38
+n, 'total numeros NO divisibles ', cnd
+1
